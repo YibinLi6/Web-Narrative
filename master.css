@@ -1,0 +1,10 @@
+body {
+	background-color: #FF8C00;
+}
+
+.myDiv {
+  color: #FF4500;
+  width: 800px;
+  margin: 0 auto;
+  text-align: center
+}
